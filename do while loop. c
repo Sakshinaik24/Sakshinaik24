@@ -1,0 +1,12 @@
+oid main()
+{
+    int a=4;
+    do
+    {
+        printf("Sakshi \n");
+        a++;
+
+    }
+    while (a!=10);
+    getch();
+}
